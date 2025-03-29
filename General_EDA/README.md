@@ -5,4 +5,4 @@ This folder contains reusable exploratory data analysis (EDA) scripts.
 - `eda_handleimbalanceData.ipynb` 
 - `eda_handleMissingValues.ipynb` 
 - `eda_handlingOutliers.ipynb`
-- `encodings.ipynb'
+- `encodings.ipynb`
